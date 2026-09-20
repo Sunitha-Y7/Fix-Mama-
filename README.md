@@ -150,10 +150,6 @@ fix-mama/
 └── README.md
 ```
 
-## 🔐 Security Note
-
-Do not upload passwords, API keys, secret tokens, `.env` files, or other sensitive credentials to the repository.
-
 ## 👥 Project
 
 **Fix Mama 😎**
