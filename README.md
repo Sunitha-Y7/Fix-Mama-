@@ -31,7 +31,6 @@ Users can verify their phone number, choose their preferred language, upload or 
 * Responsive Web Design
 * Browser Geolocation API
 * Web Speech / SpeechSynthesis API
-* GitHub
 
 ## 🔄 How It Works
 
@@ -115,7 +114,7 @@ Make sure you have:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/fix-mama.git
+git clone https://github.com/Sunitha-Y7/fix-mama.git
 ```
 
 Open the project folder:
